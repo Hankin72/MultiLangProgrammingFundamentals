@@ -11,9 +11,9 @@
 Java语言的产品是 JDK（Java Development Kit ：Java开发者工具包) ，必须安装JDK才能使用Java语言
 
 ### 获取JDK
-1、Oracle：https://www.oracle.com/java/technologies/downloads/
-2、OpenJDK
-通过IDEA在线下载安装，然后配置java，javac环境变量后可开始练习
+- 1、Oracle：https://www.oracle.com/java/technologies/downloads/
+- 2、OpenJDK 
+- 可以通过IDEA在线下载安装，然后配置java，javac环境变量后可开始练习
 
 ## 编译运行
 ```shell
